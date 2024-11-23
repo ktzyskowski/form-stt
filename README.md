@@ -1,4 +1,4 @@
-`form-stt`
+# form-stt
 
 This repository holds the submission for my Class Project #3. This program is an example of applying LLMs to assist in
 completing web forms using natural language (audio).
